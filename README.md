@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Manerich1
+- 👀 Estou interessado em aprender mais sobre java, html, css e javascript
+- 🌱 Agora estou estudando java
+- ⚡ Fun fact: Toco contrabaixo XD
